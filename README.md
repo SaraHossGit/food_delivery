@@ -7,7 +7,7 @@ from classic comfort food to exotic delights.
 ## This app include:
 
 - Streams: For State Management
-- lorem_ipsum: For generating random text (used to generate meals description) 
-- dio: For handling Http requests
+- lorem_ipsum package: For generating random text (used to generate meals description) 
+- dio package: For handling Http requests
 - UI Inspiration: https://dribbble.com/shots/14145237-Food-Delivery-Mobile-App-UI
 - API used to fetch meals: The Meal DB (https://www.themealdb.com/api.php)
