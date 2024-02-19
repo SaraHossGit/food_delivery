@@ -11,4 +11,3 @@ from classic comfort food to exotic delights.
 - dio: For handling Http requests
 - UI Inspiration: https://dribbble.com/shots/14145237-Food-Delivery-Mobile-App-UI
 - API used to fetch meals: The Meal DB (https://www.themealdb.com/api.php)
-- 
