@@ -3,9 +3,10 @@
 Food Delivery - Mobile App UI
 Choose from a vast selection of cuisines from different countries and different categories,
 from classic comfort food to exotic delights.
-- Demo Video: 
-![1](https://github.com/SaraHossGit![2](https://github.com/SaraHossGit/food_delivery/assets/89196087/7161ba16-9a95-48fc-b71c-b9ba173c1251)
-/food_delivery/assets/89196087/0f16c0b6-a191-4507-88c1-215f3e8c5e00) 
+- Demo Video:
+- ![1](https://github.com/SaraHossGit/food_delivery/assets/89196087/73e9b7b3-59a7-47fd-a65c-168a57321d6e)
+![2](https://github.com/SaraHossGit/food_delivery/assets/89196087/b79a6d4f-12a9-4605-a56b-8d8c11540102)
+
 
 
 ## This app include:
